@@ -16,3 +16,9 @@ The combined system should satisfy these requirements:
 2- Monitor the temperature continuously.  
 3- Show current temperature.  
 4- Send an SMS to the user when the temperature is out of range or if the rate exceeds limits.  
+  
+The next diagram show the block diagram of the project  
+![Block Diagram of the Project](images/Block Diagram.PNG)  
+   
+and The next diagram show Proteus Simulation diagram  
+![Simulation Diagram the Project](images/Proteus Simulation Diagram.PNG) 
