@@ -18,7 +18,9 @@ The combined system should satisfy these requirements:
 4- Send an SMS to the user when the temperature is out of range or if the rate exceeds limits.  
   
 The next diagram show the block diagram of the project  
-![Block Diagram of the Project](images/Block Diagram.PNG)  
+![Block Diagram of the Project](https://github.com/MuhammadEsmat/GSM-Based-Temperature-Monitoring-System-/blob/main/images/Block%20Diagram.PNG)  
    
 and The next diagram show Proteus Simulation diagram  
 ![Simulation Diagram the Project](https://github.com/MuhammadEsmat/GSM-Based-Temperature-Monitoring-System-/blob/main/images/Proteus%20Simulation%20Diagram.PNG) 
+
+
