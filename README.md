@@ -21,4 +21,4 @@ The next diagram show the block diagram of the project
 ![Block Diagram of the Project](images/Block Diagram.PNG)  
    
 and The next diagram show Proteus Simulation diagram  
-![Simulation Diagram the Project](images/Proteus Simulation Diagram.PNG) 
+![Simulation Diagram the Project](https://github.com/MuhammadEsmat/GSM-Based-Temperature-Monitoring-System-/blob/main/images/Proteus%20Simulation%20Diagram.PNG) 
